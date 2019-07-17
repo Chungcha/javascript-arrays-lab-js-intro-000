@@ -11,4 +11,4 @@ function destructivelyPrependKitten(element){
   return kittens;
 }
 
-function 
+function destructivelyRemoveLastKitten
